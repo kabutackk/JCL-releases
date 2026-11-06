@@ -1,7 +1,7 @@
 {
-  "version": "0.1.6",
-  "notes": "新增\r\n- 新增 JSkin 登录服务器预设，新建档案时默认使用\r\n- 实例设置页新增「设置为 JSkin」按钮，一键切换实例的验证服务器\r\n\r\n优化\r\n- 选择验证服务器时，预设与地址输入框分开显示，选预设仍可手动修改地址\r\n- 多个「设置为」按钮改为自动换行，窗口较窄时不会挤在一起",
-  "url": "https://github.com/kabutackk/JCL-releases/releases/download/v0.1.6/JCL.exe",
-  "page": "https://github.com/kabutackk/JCL-releases/releases/tag/v0.1.6",
-  "sha256": "303f90431c1a630338229adda4615b581fc3b8b697c9921d42792c060d7f348b"
+  "version": "0.1.7",
+  "notes": "修复\r\n- 修复自动更新必定提示「文件被其他程序占用」而无法完成的问题\r\n- 更新失败时不会再把启动器文件弄丢\r\n\r\n优化\r\n- 更新时显示下载进度、文件大小与实时速度\r\n- 下载卡住时能看出是否还在进行",
+  "url": "https://github.com/kabutackk/JCL-releases/releases/download/v0.1.7/JCL.exe",
+  "page": "https://github.com/kabutackk/JCL-releases/releases/tag/v0.1.7",
+  "sha256": "4b06bb9d2dfff36accbb8c7e610c8ee221db011ac83a60b43901c4d370a80208"
 }
