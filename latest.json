@@ -1,7 +1,7 @@
 {
-  "version": "0.1.5",
-  "notes": "新增\r\n- 启动时自动检查更新，发现新版本弹窗提示\r\n\r\n修复\r\n- 修复更新时可能装回旧文件、反复提示更新的问题\r\n- 更新失败时提示原因，并可一键重新更新\r\n\r\n优化\r\n- 下载更新后校验文件完整性，避免线路异常时损坏程序",
-  "url": "https://github.com/kabutackk/JCL-releases/releases/download/v0.1.5/JCL.exe",
-  "page": "https://github.com/kabutackk/JCL-releases/releases/tag/v0.1.5",
-  "sha256": "158a53eae496740c61399dfb88ed7ccdd9859db0a8c375e71218e560b93acada"
+  "version": "0.1.6",
+  "notes": "新增\r\n- 新增 JSkin 登录服务器预设，新建档案时默认使用\r\n- 实例设置页新增「设置为 JSkin」按钮，一键切换实例的验证服务器\r\n\r\n优化\r\n- 选择验证服务器时，预设与地址输入框分开显示，选预设仍可手动修改地址\r\n- 多个「设置为」按钮改为自动换行，窗口较窄时不会挤在一起",
+  "url": "https://github.com/kabutackk/JCL-releases/releases/download/v0.1.6/JCL.exe",
+  "page": "https://github.com/kabutackk/JCL-releases/releases/tag/v0.1.6",
+  "sha256": "303f90431c1a630338229adda4615b581fc3b8b697c9921d42792c060d7f348b"
 }
