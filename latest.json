@@ -1,7 +1,10 @@
 {
-  "version": "0.1.8",
-  "notes": "优化：\r\n- JSkin 验证服务器预设改为直连地址，改善国内网络下的登录与皮肤加载",
-  "url": "https://github.com/kabutackk/JCL-releases/releases/download/v0.1.8/JCL.exe",
-  "page": "https://github.com/kabutackk/JCL-releases/releases/tag/v0.1.8",
-  "sha256": "77e4099815012a97a37575b01de085855729cecc4e57a760178747e6e44d3e71"
+  "version": "0.1.9",
+  "notes": "优化：\r\n- 新增国内下载源，提升启动器更新包的下载速度",
+  "url": "https://github.com/kabutackk/JCL-releases/releases/download/v0.1.9/JCL.exe",
+  "mirrors": [
+    "https://mp-66889e3b-df55-4bc6-87b3-f1c34ef5ce56.cdn.bspapp.com/minecraft/JCL-0.1.9.exe"
+  ],
+  "page": "https://github.com/kabutackk/JCL-releases/releases/tag/v0.1.9",
+  "sha256": "e58fe5ee0a872de4aa8899ce300fa8002275b7fc997466e88a10aa9bff50a66a"
 }
