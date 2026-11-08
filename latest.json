@@ -1,10 +1,10 @@
 {
-  "version": "0.1.9",
-  "notes": "优化：\r\n- 新增国内下载源，提升启动器更新包的下载速度",
-  "url": "https://github.com/kabutackk/JCL-releases/releases/download/v0.1.9/JCL.exe",
+  "version": "0.1.10",
+  "notes": "优化：\r\n- 更新检查优先使用国内源，提升更新速度与稳定性",
+  "url": "https://github.com/kabutackk/JCL-releases/releases/download/v0.1.10/JCL.exe",
   "mirrors": [
-    "https://mp-66889e3b-df55-4bc6-87b3-f1c34ef5ce56.cdn.bspapp.com/minecraft/JCL-0.1.9.exe"
+    "https://mp-66889e3b-df55-4bc6-87b3-f1c34ef5ce56.cdn.bspapp.com/minecraft/JCL-0.1.10.exe"
   ],
-  "page": "https://github.com/kabutackk/JCL-releases/releases/tag/v0.1.9",
-  "sha256": "e58fe5ee0a872de4aa8899ce300fa8002275b7fc997466e88a10aa9bff50a66a"
+  "page": "https://github.com/kabutackk/JCL-releases/releases/tag/v0.1.10",
+  "sha256": "c9543b29efd23887b57dda6d60bc840338d09a99096f86110fe919f1130329ad"
 }
