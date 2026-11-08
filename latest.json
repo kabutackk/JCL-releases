@@ -1,7 +1,7 @@
 {
-  "version": "0.1.7",
-  "notes": "修复\r\n- 修复自动更新必定提示「文件被其他程序占用」而无法完成的问题\r\n- 更新失败时不会再把启动器文件弄丢\r\n\r\n优化\r\n- 更新时显示下载进度、文件大小与实时速度\r\n- 下载卡住时能看出是否还在进行",
-  "url": "https://github.com/kabutackk/JCL-releases/releases/download/v0.1.7/JCL.exe",
-  "page": "https://github.com/kabutackk/JCL-releases/releases/tag/v0.1.7",
-  "sha256": "4b06bb9d2dfff36accbb8c7e610c8ee221db011ac83a60b43901c4d370a80208"
+  "version": "0.1.8",
+  "notes": "优化：\r\n- JSkin 验证服务器预设改为直连地址，改善国内网络下的登录与皮肤加载",
+  "url": "https://github.com/kabutackk/JCL-releases/releases/download/v0.1.8/JCL.exe",
+  "page": "https://github.com/kabutackk/JCL-releases/releases/tag/v0.1.8",
+  "sha256": "77e4099815012a97a37575b01de085855729cecc4e57a760178747e6e44d3e71"
 }
