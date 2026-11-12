@@ -1,10 +1,10 @@
 {
-  "version": "0.1.11",
-  "notes": "修复\r\n- 修正实例设置页点击「设置为 JSkin」时提示文案错误地写着 LittleSkin 的问题",
-  "url": "https://github.com/kabutackk/JCL-releases/releases/download/v0.1.11/JCL.exe",
+  "version": "0.1.12",
+  "notes": "新增\r\n- 版本设置-概览页顶部新增「切换版本」按钮，可以直接跳到其他版本的设置，不用再返回启动页重新选择\r\n\r\n修复\r\n- 修复删除游戏文件夹时，确认弹窗里出现两个「取消」按钮的问题\r\n\r\n优化\r\n- 版本选择页的文件夹列表宽度固定，路径较长时不再把左栏撑宽\r\n- 切换版本成功后会回到顶部并给出明显提示，不再让人以为操作失败",
+  "url": "https://github.com/kabutackk/JCL-releases/releases/download/v0.1.12/JCL.exe",
   "mirrors": [
-    "https://mp-66889e3b-df55-4bc6-87b3-f1c34ef5ce56.cdn.bspapp.com/minecraft/JCL-0.1.11.exe"
+    "https://mp-66889e3b-df55-4bc6-87b3-f1c34ef5ce56.cdn.bspapp.com/minecraft/JCL-0.1.12.exe"
   ],
-  "page": "https://github.com/kabutackk/JCL-releases/releases/tag/v0.1.11",
-  "sha256": "bef93082cc731031465432809d4938712952b76b2d9dd5c6aac6462bda8af09a"
+  "page": "https://github.com/kabutackk/JCL-releases/releases/tag/v0.1.12",
+  "sha256": "96334dae48bb1ca99ffedc183323dafea34c5b7a4edf129b04e5e5cc628c75dd"
 }
