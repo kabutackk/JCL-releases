@@ -1,10 +1,10 @@
 {
-  "version": "0.1.13",
-  "notes": "新增\r\n- 在整合包中使用第三方登录时，游戏内会自动显示你在皮肤站设置的皮肤，无需手动配置皮肤补丁\r\n\r\n修复\r\n- 修复整合包内登录 JSkin 账号时，皮肤被同名 Mojang 账号覆盖的问题\r\n\r\n优化\r\n- 无",
-  "url": "https://github.com/kabutackk/JCL-releases/releases/download/v0.1.13/JCL.exe",
+  "version": "0.1.14",
+  "notes": "v0.1.14：皮肤预览 3D 化、游戏设置与按键编辑页",
+  "url": "https://github.com/kabutackk/JCL-releases/releases/download/v0.1.14/JCL.exe",
   "mirrors": [
-    "https://mp-66889e3b-df55-4bc6-87b3-f1c34ef5ce56.cdn.bspapp.com/minecraft/JCL-0.1.13.exe"
+    "https://mp-66889e3b-df55-4bc6-87b3-f1c34ef5ce56.cdn.bspapp.com/minecraft/JCL-0.1.14.exe"
   ],
-  "page": "https://github.com/kabutackk/JCL-releases/releases/tag/v0.1.13",
-  "sha256": "129140f073cd4a24b8c58a4e8fd25ff75bcd225386d0d47308ff4bc1832b929e"
+  "page": "https://github.com/kabutackk/JCL-releases/releases/tag/v0.1.14",
+  "sha256": "08e05c057835ae311316940969178f7fc9bf75b797b387714a712d6a58a97172"
 }
