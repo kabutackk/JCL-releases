@@ -1,10 +1,10 @@
 {
-  "version": "0.1.14",
-  "notes": "v0.1.14：皮肤预览 3D 化、游戏设置与按键编辑页",
-  "url": "https://github.com/kabutackk/JCL-releases/releases/download/v0.1.14/JCL.exe",
+  "version": "0.1.15",
+  "notes": "修复\r\n- 修复启动页 3D 皮肤预览明显卡顿的问题：动画改用显示器刷新同步，帧率从固定的 30fps 提升到跟随屏幕刷新（实测约 120fps），动作速度不再忽快忽慢\r\n- 修复 3D 预览在切走页面后仍在后台计算的问题，隐藏时彻底停止渲染\r\n\r\n优化\r\n- 3D 模型的自转、行走、转头全部改为按真实时间推进，窗口卡顿或切换回来时动作不会跳帧",
+  "url": "https://github.com/kabutackk/JCL-releases/releases/download/v0.1.15/JCL.exe",
   "mirrors": [
-    "https://mp-66889e3b-df55-4bc6-87b3-f1c34ef5ce56.cdn.bspapp.com/minecraft/JCL-0.1.14.exe"
+    "https://mp-66889e3b-df55-4bc6-87b3-f1c34ef5ce56.cdn.bspapp.com/minecraft/JCL-0.1.15.exe"
   ],
-  "page": "https://github.com/kabutackk/JCL-releases/releases/tag/v0.1.14",
-  "sha256": "08e05c057835ae311316940969178f7fc9bf75b797b387714a712d6a58a97172"
+  "page": "https://github.com/kabutackk/JCL-releases/releases/tag/v0.1.15",
+  "sha256": "895d3607e7913664601b4ff7b9f61cf4a8edbbe5cd1c613d51d2443c75bbf76d"
 }
