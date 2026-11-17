@@ -1,10 +1,10 @@
 {
-  "version": "0.1.16",
-  "notes": "修复\r\n- 修复从旧版更新上来后，设置页提示「没有找到母本」的问题。游戏设置与按键同步的母本现在内置在启动器里，首次运行会自动释放，不再依赖随包发布的额外文件\r\n\r\n优化\r\n- 无",
-  "url": "https://github.com/kabutackk/JCL-releases/releases/download/v0.1.16/JCL.exe",
+  "version": "0.1.17",
+  "notes": "修复档案头像缺失与皮肤缓存丢失",
+  "url": "https://github.com/kabutackk/JCL-releases/releases/download/v0.1.17/JCL.exe",
   "mirrors": [
-    "https://mp-66889e3b-df55-4bc6-87b3-f1c34ef5ce56.cdn.bspapp.com/minecraft/JCL-0.1.16.exe"
+    "https://mp-66889e3b-df55-4bc6-87b3-f1c34ef5ce56.cdn.bspapp.com/minecraft/JCL-0.1.17.exe"
   ],
-  "page": "https://github.com/kabutackk/JCL-releases/releases/tag/v0.1.16",
-  "sha256": "925b97aa6415750c484d2171d534e68a202fcc60074b2808f967e9b7241a4cb9"
+  "page": "https://github.com/kabutackk/JCL-releases/releases/tag/v0.1.17",
+  "sha256": "4065d461ea394689187f7c27b9377aa0c208b3c94d047cee263c6efe47f047f7"
 }
