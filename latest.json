@@ -1,10 +1,10 @@
 {
-  "version": "0.1.17",
-  "notes": "修复档案头像缺失与皮肤缓存丢失",
-  "url": "https://github.com/kabutackk/JCL-releases/releases/download/v0.1.17/JCL.exe",
+  "version": "0.1.18",
+  "notes": "JCL 0.1.18",
+  "url": "https://github.com/kabutackk/JCL-releases/releases/download/v0.1.18/JCL.exe",
   "mirrors": [
-    "https://mp-66889e3b-df55-4bc6-87b3-f1c34ef5ce56.cdn.bspapp.com/minecraft/JCL-0.1.17.exe"
+    "https://mp-66889e3b-df55-4bc6-87b3-f1c34ef5ce56.cdn.bspapp.com/minecraft/JCL-0.1.18.exe"
   ],
-  "page": "https://github.com/kabutackk/JCL-releases/releases/tag/v0.1.17",
-  "sha256": "4065d461ea394689187f7c27b9377aa0c208b3c94d047cee263c6efe47f047f7"
+  "page": "https://github.com/kabutackk/JCL-releases/releases/tag/v0.1.18",
+  "sha256": "fe9909f0ef5d73bcab2307172942c3fea1f7521c5d783bf33393857947328811"
 }
