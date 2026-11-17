@@ -1,6 +1,6 @@
 {
   "version": "0.1.19",
-  "notes": "JCL 0.1.19",
+  "notes": "- 新增「存档自动备份」：启动游戏前若存档有变化，自动打包一份，默认保留 5 份（设置 → 启动里可开关与调整份数）\n- 移除版本隔离开关，隔离恒为开启；已有实例不受影响\n- 导入的老式共享 .minecraft 若把 mods 放在根目录，首次启动会询问是否复制到实例目录",
   "url": "https://github.com/kabutackk/JCL-releases/releases/download/v0.1.19/JCL.exe",
   "mirrors": [
     "https://mp-66889e3b-df55-4bc6-87b3-f1c34ef5ce56.cdn.bspapp.com/minecraft/JCL-0.1.19.exe"
