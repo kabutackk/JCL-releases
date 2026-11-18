@@ -1,10 +1,10 @@
 {
-  "version": "0.1.19",
-  "notes": "- 新增「存档自动备份」：启动游戏前若存档有变化，自动打包一份，默认保留 5 份（设置 → 启动里可开关与调整份数）\n- 移除版本隔离开关，隔离恒为开启；已有实例不受影响\n- 导入的老式共享 .minecraft 若把 mods 放在根目录，首次启动会询问是否复制到实例目录",
-  "url": "https://github.com/kabutackk/JCL-releases/releases/download/v0.1.19/JCL.exe",
+  "version": "0.1.20",
+  "notes": "收藏夹与存档页的多处易用性修复\r\n\r\n- 收藏夹列表加「查看详细信息」按钮，原先只有右键能进\r\n- 批量下载不再一票否决：不支持的资源只列出清单，其余照常下载\r\n- 加载器与游戏版本默认选中当前实例，下载后直接落到对应目录\r\n- 修复 Modrinth 数据包被误判为模组，以及数据包不建 datapacks 文件夹\r\n- 粘贴同名存档改为询问改名保存，不再直接失败\r\n- 修复存档页偶发刷新失效（动画计数泄漏 + 目录监听丢事件）",
+  "url": "https://github.com/kabutackk/JCL-releases/releases/download/v0.1.20/JCL.exe",
   "mirrors": [
-    "https://mp-66889e3b-df55-4bc6-87b3-f1c34ef5ce56.cdn.bspapp.com/minecraft/JCL-0.1.19.exe"
+    "https://mp-66889e3b-df55-4bc6-87b3-f1c34ef5ce56.cdn.bspapp.com/minecraft/JCL-0.1.20.exe"
   ],
-  "page": "https://github.com/kabutackk/JCL-releases/releases/tag/v0.1.19",
-  "sha256": "4d99dcf27b1c4db8a7c6d0568ba34301cf1e47d6d1e5a0cadde33fa2136461c6"
+  "page": "https://github.com/kabutackk/JCL-releases/releases/tag/v0.1.20",
+  "sha256": "b78ec3a57b62f248a88d05727dd006439dabb7c6b41663f0bf87ad6f98a17299"
 }
