@@ -1,10 +1,10 @@
 {
-  "version": "0.2.2",
-  "notes": "下载源会自动切换，不再卡在慢源上\r\n\r\n- 「优先使用官方源，在加载缓慢时换用镜像源」现在会真的切换：下载过程中持续监测速度，某个源连续几秒低于 128 KiB/s 就自动换下一个，不会再出现卡在几十 KB/s 一卡好几分钟的情况\r\n- 官方源被判定过慢后，本次运行的后续下载直接走镜像；镜像也慢时同样会自动切回官方，不再单向下台阶\r\n- 实例概览：个性化与高级管理的按钮固定每行四个，窄窗口下不再折行",
-  "url": "https://github.com/kabutackk/JCL-releases/releases/download/v0.2.2/JCL.exe",
+  "version": "0.2.3",
+  "notes": "下载变得更稳，坏掉的库文件也能自愈\r\n\r\n- 切换下载源后会从断点继续，不再从头重新下载\r\n- 库文件损坏时启动器会自动重新下载修复，此前这类问题会一直启动失败且查不出原因\r\n- 修复下载总进度偶尔从 70% 跳回 50% 的问题\r\n- 修复部分系统上中文路径误报提示、以及不必要的 Java 兼容模式\r\n- 崩溃分析能识别 Fabric 加载器缺失，不再只提示「无法确定原因」",
+  "url": "https://github.com/kabutackk/JCL-releases/releases/download/v0.2.3/JCL.exe",
   "mirrors": [
-    "https://mp-66889e3b-df55-4bc6-87b3-f1c34ef5ce56.cdn.bspapp.com/minecraft/JCL-0.2.2.exe"
+    "https://mp-66889e3b-df55-4bc6-87b3-f1c34ef5ce56.cdn.bspapp.com/minecraft/JCL-0.2.3.exe"
   ],
-  "page": "https://github.com/kabutackk/JCL-releases/releases/tag/v0.2.2",
-  "sha256": "54dd6d9d99241d3af107e4ca793a463fcdf47fe51875d676780ee7bf35709356"
+  "page": "https://github.com/kabutackk/JCL-releases/releases/tag/v0.2.3",
+  "sha256": "57dd0e0802f0238c43588740df577414e4c774b88ac7d6bddadf18a23d0cfe22"
 }
