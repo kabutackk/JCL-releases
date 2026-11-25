@@ -1,10 +1,10 @@
 {
-  "version": "0.2.3",
-  "notes": "下载变得更稳，坏掉的库文件也能自愈\r\n\r\n- 切换下载源后会从断点继续，不再从头重新下载\r\n- 库文件损坏时启动器会自动重新下载修复，此前这类问题会一直启动失败且查不出原因\r\n- 修复下载总进度偶尔从 70% 跳回 50% 的问题\r\n- 修复部分系统上中文路径误报提示、以及不必要的 Java 兼容模式\r\n- 崩溃分析能识别 Fabric 加载器缺失，不再只提示「无法确定原因」",
-  "url": "https://github.com/kabutackk/JCL-releases/releases/download/v0.2.3/JCL.exe",
+  "version": "0.2.4",
+  "notes": "界面上的「版本」现在统一叫「实例」\r\n\r\n- 下载页第一个标签从「Minecraft」改为「实例」，和下面的模组、整合包、资源包放在一起不再突兀\r\n- 实例分类改为「模组加载器实例」：同一组混装多种加载器时卡片显示「多种加载器实例」，只有一种时仍按 Fabric、Forge 等具体显示\r\n- 启动页的「版本选择」「版本设置」与实例页的「切换版本」统一为「实例选择」「实例设置」「切换实例」，页面标题和相关提示一并跟上\r\n- 修正繁体中四处把「版本」误译成「实例」的文案\r\n- 更新失败的提示不再硬编码中文，切换到其他语言时也能正常显示",
+  "url": "https://github.com/kabutackk/JCL-releases/releases/download/v0.2.4/JCL.exe",
   "mirrors": [
-    "https://mp-66889e3b-df55-4bc6-87b3-f1c34ef5ce56.cdn.bspapp.com/minecraft/JCL-0.2.3.exe"
+    "https://mp-66889e3b-df55-4bc6-87b3-f1c34ef5ce56.cdn.bspapp.com/minecraft/JCL-0.2.4.exe"
   ],
-  "page": "https://github.com/kabutackk/JCL-releases/releases/tag/v0.2.3",
-  "sha256": "57dd0e0802f0238c43588740df577414e4c774b88ac7d6bddadf18a23d0cfe22"
+  "page": "https://github.com/kabutackk/JCL-releases/releases/tag/v0.2.4",
+  "sha256": "ef6509566e2a7ae0f5af3aee07df18557abf54dce0a3550a4124b14b09fd6e5c"
 }
